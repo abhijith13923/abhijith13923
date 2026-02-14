@@ -3,7 +3,7 @@
 # AI · ML · DATA ANALYTICS · DJANGO | VIT 27
 
 # About Me
-- I'm gonna actually put out my stuff here. 
+- I build stuff I also do leetcode
 
 # Contact
 - Reach out - acabhijith13@gmail.com
